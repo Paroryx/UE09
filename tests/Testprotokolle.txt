@@ -1,0 +1,39 @@
+Testprotokoll A1:
+Tasklist Size: 8
+[(120h) Contemplating Existence
+ (90h) Mastering the Art of Pancake Flipping
+ (60h) Solving Hunger (Making Dinner)
+ (60h) Discovering the Meaning of Life
+ (45h) Searching for the Lost Sock
+ (30h) Playing Minecraft
+ (15h) Assembling the Ultimate Sandwich
+ (15h) Assembling the Ultimate Sandwich]
+
+AddSortedTask "chopping Wood" duration:20
+
+Tasklist Size: 9
+[(120h) Contemplating Existence
+ (90h) Mastering the Art of Pancake Flipping
+ (60h) Solving Hunger (Making Dinner)
+ (60h) Discovering the Meaning of Life
+ (45h) Searching for the Lost Sock
+ (30h) Playing Minecraft
+ (20h) chopping Wood
+ (15h) Assembling the Ultimate Sandwich
+ (15h) Assembling the Ultimate Sandwich]
+
+Shortest Task:  (15h) Assembling the Ultimate Sandwich
+
+Longest Task:   (120h) Contemplating Existence
+
+Remove tasks with duration 15:  removed 2 task(s)
+
+Remove longestTask:     removed 1 task(s)
+
+Tasklist within 50 and 100 asArray:
+        [(90h) Mastering the Art of Pancake Flipping, (60h) Discovering the Meaning of Life, (60h) Solving Hunger (Making Dinner)]
+
+cleared tasklist!  -cleared 6 task(s)
+
+Tasklist Size: 0
+Tasklist: []
